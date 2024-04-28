@@ -10,6 +10,7 @@ body {
     justify-content: space-around;
     /* position: sticky;
     top: 0; */
+    background-color:  #38737e;
 }
 
 .name {
